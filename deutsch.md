@@ -1,4 +1,4 @@
-# Ein Buzzergame bauen
+# Ein Buzzergame bauen - Version 1.0
 ## 1. Material
 - [Raspberry Pi Mini Computer](https://www.raspberrypi.com)
 - [Led (Rot-Gelb-Grün-Blau)](https://www.amazon.de/Youmile-100er-Pack-rund-Leuchtdiode-Mischfarbe/dp/B07PZ75N67)
