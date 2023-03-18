@@ -18,7 +18,7 @@
 ### 2.2 Buttons
 ![alt text](buzzer-step-1.png)
 ### 2.3 Einbauen
-Baue nun alles in eine Kiste ein und Stecke den Rasperry Pi an den Strom.<br>
+Baue nun alles in eine Kiste ein und stecke den Rasperry Pi an den Strom.<br>
 ## 3. Website
 Führe nun folgende Befehle im Terminal aus:<br>
 ```
